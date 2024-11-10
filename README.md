@@ -1,4 +1,4 @@
-👋 **Hi! My name is Abdulshakour**  
+# 👋 **Hi! My name is Abdulshakour**  
 💡 **Full Stack Web Developer** | Experienced in Next.js & React  
 
 ---
