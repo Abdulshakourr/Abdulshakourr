@@ -1,5 +1,5 @@
 # 👋 **Hi! My name is Abdulshakour**  
-💡 **Full Stack Web Developer** | Experienced in Next.js & React  
+💡 **Front-end  Web Developer** | Experienced in Next.js & React, tailwindcss, shadcn 
 
 ---
 
