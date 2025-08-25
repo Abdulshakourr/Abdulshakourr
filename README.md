@@ -48,10 +48,7 @@
 </div>
 
 ---
-## 🏆 GitHub Trophies
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulshakourr&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="flex: 1 1 50%; margin: 10px;" />
-</div>
+
 
 ---
 
