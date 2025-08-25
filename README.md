@@ -42,20 +42,20 @@
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Rirash&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="flex: 1 1 25%; margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Rirash&theme=radical&hide_border=false&layout=compact" alt="Top Languages" style="flex: 1 1 25%; margin: 10px;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed-Rirash&theme=radical&hide_border=false" alt="GitHub Streak" style="flex: 1 1 50%; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulshakourr&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="flex: 1 1 25%; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulshakourr&theme=radical&hide_border=false&layout=compact" alt="Top Languages" style="flex: 1 1 25%; margin: 10px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdulshakourr&theme=radical&hide_border=false" alt="GitHub Streak" style="flex: 1 1 50%; margin: 10px;" />
 </div>
 
 ---
 ## 🏆 GitHub Trophies
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Rirash&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="flex: 1 1 50%; margin: 10px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulshakourr&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="flex: 1 1 50%; margin: 10px;" />
 </div>
 
 ---
 
 ### 🔝 Top Contributed Repos
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mohamed-Rirash&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" style="flex: 1 1 50%; margin: 10px;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Abdulshakourr&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" style="flex: 1 1 50%; margin: 10px;" />
 </div>
